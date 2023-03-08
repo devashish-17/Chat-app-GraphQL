@@ -4,9 +4,9 @@ import Image from 'next/image'
 
 const Home: NextPage = () => {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center py-2">
+    <div className="">
       <Head>
-        <title>Create Next App</title>
+        <title>Next Messenger</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -14,6 +14,9 @@ const Home: NextPage = () => {
       <main>
         <h2> Next ChapApp </h2>
       </main>
+
+
+      
     </div>
   )
 }
