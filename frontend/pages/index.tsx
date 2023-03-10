@@ -31,9 +31,6 @@ const Home: NextPage = () => {
 
 
       </main>
-
-
-
     </div>
   )
 }
