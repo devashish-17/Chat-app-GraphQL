@@ -17,19 +17,6 @@ const Home: NextPage = () => {
 
       <main>
         <h2> Next ChapApp </h2>
-
-
-        <button
-          onClick={() => {
-            signIn();
-          }}
-        >
-          Login
-        </button>
-
-        hello world
-
-
       </main>
     </div>
   )
