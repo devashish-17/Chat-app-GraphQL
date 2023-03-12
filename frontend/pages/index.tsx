@@ -8,7 +8,7 @@ const Home: NextPage = () => {
   console.log("data is = ", data);
 
   return (
-    <div className="bg-gray-400 h-screen">
+    <div className="">
       <Head>
         <title>Next Messenger</title>
         <link rel="icon" href="/favicon.ico" />
